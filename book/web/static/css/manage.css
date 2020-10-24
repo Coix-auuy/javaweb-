@@ -1,0 +1,86 @@
+.manage_area ul{
+    margin-right: 20px;
+    float:right;
+}
+.manage_area ul li {
+    display: inline-block;
+    margin: 20px 20px 0 0;
+}
+.manage_area ul li a {
+    font-size: 18px;
+    color:red;
+}
+.manage_area form {
+    font-size:18px ;
+    margin: 20px 0px 0px 60px;
+    float:left;
+    color: rgba(255, 255, 255, 1);
+}
+.manage_area form input {
+    background-color:transparent;
+    border:   1px solid rgba(255, 255, 255, 1);
+    color:  rgba(255, 255, 255, 1);
+}
+.manage_area form .sBtn {
+    background-color: #4e4e4e;
+}
+
+
+.area {
+    overflow-x: hidden;
+    overflow-y: auto;
+    background-image:url("/book/static/img/background-pic.jpg");
+    background-size:100% ;
+}
+.area table {
+    width: 1080px;
+    margin: 60px auto;
+    color: rgba(255, 255, 255, 0.9);
+
+}
+.area table th,
+td{
+    font-size: 16px;
+    text-align: center;
+    border-bottom: 1px solid rgba(255, 255, 255, 1);
+    border-collapse: collapse;
+}
+.area table a {
+    font-size: 16px;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+}
+.table input{
+    text-align: center;
+    font-size: 16px;
+    background-color:   transparent;
+    border:   0px;
+    color: rgba(255, 255, 255, 1);
+}
+#page_nav {
+    font-size: 14px;
+    text-align: center;
+    margin:25px auto;
+    color: rgba(255, 255, 255,1);
+}
+#pn_input{
+
+    width: 25px;
+    text-align: center;
+    background-color:transparent;
+    border:   0px;
+
+}
+#searchPageBtn {
+    width: 40px;
+    text-align: center;
+    background-color:transparent;
+    border:   0px;
+    color:rgba(255, 255, 255, 1) ;
+}
+#page_nav a{
+    color: rgba(255, 255, 255, 1);
+}
+.operate {
+    width: 75px;
+}

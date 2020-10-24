@@ -1,0 +1,56 @@
+/*声明字体图标*/
+/*版心*/
+.w {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.fl {
+    float: left;
+}
+
+.fr {
+    float: right;
+}
+/* header*/
+.header {
+    position: relative;
+    height: 105px;
+    background-color: #ffffff;
+}
+/*area*/
+.area {
+    margin-top: 25px;
+    height: 522px;
+    border: 1px solid #ccc;
+    background-image:url("/book/static/img/background_pic2.jpg");
+    background-size:100% ;
+}
+
+/*logo*/
+.logo {
+    position: absolute;
+    top: 25px;
+    width: 153px;
+    height: 78px;
+}
+
+.logo a {
+    display: block;
+    width: 153px;
+    height: 78px;
+    font-size: 0;
+    background: url("../img/logo.png") no-repeat;
+}
+
+.copyright {
+    margin: 10px auto;
+    text-align: center;
+}
+.copyright span {
+    margin: 0 auto;
+}
+header {
+    height: 78px;
+    border-bottom: 2px solid black;
+}

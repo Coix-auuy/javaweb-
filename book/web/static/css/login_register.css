@@ -1,0 +1,46 @@
+.login_register_H1 {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 40px;
+    letter-spacing: 50px;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.login_register_form {
+    margin: 50px auto 0;
+    width: 600px;
+    color: rgba(255, 255, 255, 0.9);
+
+}
+
+.login_register_form form ul {
+    text-align: center;
+}
+.login_register_form form ul li {
+    margin-bottom: 20px;
+}
+
+.login_register_form form ul li label {
+    display: inline-block;
+    width: 88px;
+    text-align: right;
+    font-size: 18px;
+
+}
+
+.login_register_form form ul li .inp {
+    width: 242px;
+    height: 30px;
+    border: 1px solid #ccc;
+}
+#errorMsg {
+    font-size: 15px;
+    color: red;
+}
+.login_register_btn {
+    width: 135px;
+    height: 34px;
+    background-color: rgba(24, 12, 29, 0.4);
+    font-size: 14px;
+    color: #fff;
+}
